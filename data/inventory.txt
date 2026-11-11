@@ -1,0 +1,6 @@
+101|Basmati Rice 5kg|Grains|40|1450
+102|Cooking Oil 1L|Oil|25|520
+103|Sugar 1kg|Essentials|60|160
+104|Tea Packet 190g|Beverages|8|390
+105|Milk Pack 1L|Dairy|6|280
+106|Wheat Flour 10kg|Grains|30|1200
